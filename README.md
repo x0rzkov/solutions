@@ -6,6 +6,16 @@ My solutions to online challenges and exercises from books.
 
 Feel free to email me (See my GitHub profile) if you want me to help.
 
+## REPOS
+
+|Repo|Purpose|
+|----|-------|
+|[books](https://github.com/TanguyAndreani/books)|Solutions to books exercises|
+|[cryptopals](https://github.com/TanguyAndreani/cryptopals)|CryptoPals challenges|
+|[leetcode](https://github.com/TanguyAndreani/leetcode)|Leetcode accepted solutions|
+|[lisp99](https://github.com/TanguyAndreani/lisp99)|Solutions to the Ninety-Nine Lisp Problems|
+|[euler](https://github.com/TanguyAndreani/euler)|Project Euler solutions|
+
 ## LIST
 
 ### Books
@@ -18,7 +28,7 @@ Books I plan on doing:
 
 #### The Go Programming Language
 
-[Solutions file](books/tgpl.markdown)
+[Solutions file](https://github.com/TanguyAndreani/books/tgpl.markdown)
 
 |Exercises range|Page|Date|
 |---------------|----|----|
