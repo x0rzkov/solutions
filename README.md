@@ -1,9 +1,5 @@
 # solutions
 
-![l99](https://github.com/TanguyAndreani/solutions/workflows/l99/badge.svg)
-![cryptopals](https://github.com/TanguyAndreani/solutions/workflows/cryptopals/badge.svg)
-![project euler](https://github.com/TanguyAndreani/solutions/workflows/projecteuler/badge.svg)
-
 ## DESCRIPTION
 
 My solutions to online challenges and exercises from books.
